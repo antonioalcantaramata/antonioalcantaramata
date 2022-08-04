@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Alcántara Mata (@antonioalcantaramata). I'm a predoctoral researcher in Mathematical Engineering at Universidad Carlos III de Madrid.
 - 👀 I’m interested in machine learning, uncertainty forecasting and operations research.
-- 🌱 I’m currently learning developing my PhD thesis in data-driven stochastic optimization models for solving energy market problems.
+- 🌱 I’m currently learning developing my PhD thesis in data-driven optimization models.
 - 📫 You can check my personal Github Page to find more information about my research (https://antonioalcantaramata.github.io/). 
 
 <!---
