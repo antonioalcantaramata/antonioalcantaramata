@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Antonio Alcántara Mata (@antonioalcantaramata). I'm a postdoctoral researcher at the Technical University of Denmark (DTU).
 - 👀 I’m interested in machine learning, operations research, and uncertainty quantification.
-- 📫 You can check my personal website to find more information about my research ( [https://antonioalcantaramata.github.io/](https://www.antonioalcantara.com/) ). 
+- 📫 You can check my [personal website](https://www.antonioalcantara.com/) to find out more information about my research. 
 
 https://www.antonioalcantara.com/
 <!---
