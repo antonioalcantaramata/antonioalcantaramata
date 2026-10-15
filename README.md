@@ -9,7 +9,7 @@ I'm a tenure-track Assistant Professor in the Department of Quantitative Methods
 <!--
 - [**gridfm-trustlayer**](https://github.com/gridfm/gridfm-trustlayer): conformal prediction intervals for power-system foundation models, with N-k contingency screening. Developed for the [OpenGridFM](https://gridfm.org/) community.
 -->
-- [**CONDUCTOR**](https://github.com/antonioalcantaramata/CONDUCTOR): an LLM-orchestrated digital twin for uncertainty-aware power-system operations.
+- [**CONDUCTOR**](https://github.com/antonioalcantaramata/CONDUCTOR): A solver-grounded AI assistant for power-system operations.
 - Code for my papers: [Quantile2SP](https://github.com/antonioalcantaramata/Quantile2SP) (quantile neural networks for two-stage stochastic optimization), [DistCL](https://github.com/antonioalcantaramata/DistCL) (distributional constraint learning), [ccl_tool](https://github.com/antonioalcantaramata/ccl_tool) (chance constraint learning), [POPI-HN](https://github.com/antonioalcantaramata/POPI-HN) (Pareto-optimal prediction intervals).
 
 ### 📄 Some works
